@@ -1,0 +1,49 @@
+---
+title: Introducción al Procesamiento de datos con R
+listing:
+  contents: encuentros/*/index.qmd
+  fields: [image, title, author, subtitle]
+  type: grid
+  sort:
+    - filename
+---
+
+![](img/Logo_PNG_Baja_Mesa%20de%20trabajo%201.png){style="float: right;" fig-alt="Logo Estación R" width="150"}
+
+> Modalidad 100% virtual sincrónica.
+
+## Presentación
+
+El taller tiene como principal objetivo introducir a los y las participantes en el mundo de R y la programación para producir información estadística descriptiva. La idea es centrarse en cómo encarar un proyecto que involucre meter manos en los datos, desde cómo nombrar las carpetas o archivos, importarlos para acceder a la información, limpiar y procesarla hasta como visualizar, analizar y comunicar los hallazgos.
+
+## ¿Para quién?
+
+Para toda aquella persona que quiera / necesite trabajar con datos de una forma más sistemática, ordenada y productiva. No se requiere conocimientos previos de ningún lenguaje de programación en particular, aunque siempre es de ayuda haberse cruzado al menos con una sintaxis o haber utilizado alguna fórmula en Excel.
+
+## ¿Cómo?
+
+La programación no es un tema de mentes brillantes, sino más bien de aquellas perseverantes. Con este lema bajo el brazo es que se pensó el curso, el cual se focaliza en lo práctico. No sólo se van a ofrecer ejercicios para resolver código entre clase y clase sino que vamos a escribir R durante el encuentro sincrónico, compartiendo pantallas y dudas en vivo!
+
+------------------------------------------------------------------------
+
+## Cronograma:
+
+**Cantidad de encuentros:** 7.
+
+**Cantidad de horas por encuentro:** 2:30hs.
+
+**Día y horario de cursada:** Jueves, de 18 a 20:30hs (Hora Argentina, UTC-3).
+
+**Fecha de inicio**: Jueves 17 de octubre
+
+**Fecha de finalización**: Jueves 5 de diciembre.
+
+**Cronograma de clases:** 17/10 - 24/10 - 31/10 - 07/11 - **(descanso el 14/11)** - 21/11 - 28/11 - 05/12
+
+## Inscripción:
+
+-   Info y registro: https://forms.gle/mYXSgqYu8urZNtGz8
+
+## Encuentros
+
+*("Artwork by @allison_horst")*
